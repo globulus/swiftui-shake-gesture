@@ -25,4 +25,4 @@ struct ShakeTest: View {
 
 ## Recipe
 
-Check out [this recipe](https://swiftuirecipes.com/blog/shake-gesture-in-swiftuii) for in-depth description of the component and its code. Check out [SwiftUIRecipes.com](https://swiftuirecipes.com) for more **SwiftUI recipes**!
+Check out [this recipe](https://swiftuirecipes.com/blog/shake-gesture-in-swiftui) for in-depth description of the component and its code. Check out [SwiftUIRecipes.com](https://swiftuirecipes.com) for more **SwiftUI recipes**!
